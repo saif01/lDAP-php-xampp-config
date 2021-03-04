@@ -1,0 +1,10 @@
+///Pest 3 files in that path
+
+C:\xampp\php
+
+
+/// uncomment this
+
+C:\xampp\php
+
+extension=ldap 
